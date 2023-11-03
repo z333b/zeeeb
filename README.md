@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @z333b
+- 👋 Hi, I’m @zeeeb
 - 👀 I’m interested in new things knowledge
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on projects
